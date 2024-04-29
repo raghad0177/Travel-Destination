@@ -1,5 +1,5 @@
 import './Tours.css';
-const result = require('/home/raghad/MyLabs/travel-destination/src/data/db.json');
+const result = require('../../data/db.json');
 
 function Tours() {
     return (
