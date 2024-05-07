@@ -1,3 +1,7 @@
-div{
-   border-bottom: 1px solid #ccc;
-}
+
+.tour-container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: left; /* Adjust this according to your layout preference */
+   
+ }
